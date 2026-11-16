@@ -4,7 +4,7 @@ Dataset lengkap **tidak** disimpan di repo ini. Repo hanya berisi `sample/` (≤
 
 ## Ringkasan
 
-- Tautan folder Google Drive (akses terbatas): [isi: https://drive.google.com/drive/folders/...]
+- Tautan folder Google Drive (akses terbatas): [isi: https://drive.google.com/drive/folders/1DVjGAXkNa1gbY9DhYB-gimy0eEhhkYLL]
 - Jumlah citra: [isi]
 - Foto sendiri per anggota: [isi: mis. adrian 20, dicky 15, febri 15, daffa 15]
 - Sumber data tambahan dan lisensinya: [isi, atau "tidak ada"]
