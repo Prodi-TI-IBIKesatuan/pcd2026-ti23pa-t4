@@ -6,7 +6,7 @@ Dataset lengkap **tidak** disimpan di repo ini. Repo hanya berisi `sample/` (≤
 
 - Tautan folder Google Drive (akses terbatas): [isi: https://drive.google.com/drive/folders/...]
 - Jumlah citra: [isi]
-- Foto sendiri per anggota: [isi: mis. andi 20, budi 15, ...]
+- Foto sendiri per anggota: [isi: mis. adrian 20, dicky 15, febri 15, daffa 15]
 - Sumber data tambahan dan lisensinya: [isi, atau "tidak ada"]
 - Jumlah baris anotasi: [isi]
 - Cara pengambilan foto (perangkat, waktu, lokasi umum): [isi]
